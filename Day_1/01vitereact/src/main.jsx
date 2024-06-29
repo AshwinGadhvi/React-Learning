@@ -2,6 +2,7 @@ import React from 'react'
 import ReactDOM from 'react-dom/client'
 import App from './App.jsx'
 import List from './List.jsx'
+import {jsx as _jsx} from "react/jsx-runtime.js"
 
 // const ReactElement = {
 //     type: 'a',
