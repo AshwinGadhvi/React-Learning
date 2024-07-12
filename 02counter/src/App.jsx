@@ -31,7 +31,7 @@ const removeValue = ()=>{
 
   return (
     <>
-      <h1>Project Using Hooks</h1>
+      <h1>Project Using Hooks counter : {counter}</h1>
       <h2>Counter value: {counter}</h2>
       <button onClick={addValue}>Add Value</button>
       <br/>
